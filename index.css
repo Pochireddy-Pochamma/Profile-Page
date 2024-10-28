@@ -1,0 +1,136 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: pink;
+}
+.name {
+  color: white;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 600;
+}
+.role {
+  color: white;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 20px;
+  align-items: flex-start;
+  padding: 20px;
+  background-color: grey;
+  height: 500px;
+  width: 500px;
+  border-radius: 8px;
+  border: red 2px solid;
+}
+.education-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: grey;
+
+  width: 500px;
+  border-radius: 8px;
+  border: red 2px solid;
+  margin: 20px;
+}
+.education {
+  color: gold;
+  font-family: "Roboto";
+  font-size: 30px;
+  font-weight: 600;
+}
+.graduation {
+  color: white;
+  width: 50%;
+}
+.image {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+}
+.Intermediate {
+  color: white;
+  width: 50%;
+}
+.ssc {
+  color: white;
+  width: 50%;
+}
+.list {
+  list-style-type: disc;
+  color: white;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+}
+.skills {
+  color: white;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 600;
+}
+.contact {
+  color: gold;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 600;
+}
+.element {
+  color: white;
+  font-family: "Roboto";
+  font-size: 18px;
+  font-weight: 500;
+}
+.skills-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: grey;
+  width: 500px;
+  border-radius: 8px;
+  border: red 2px solid;
+  margin: 20px;
+}
+.navbar {
+  background-color: black;
+  padding: 20px;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+  width: 80%;
+  border-radius: 5px;
+}
+.nav-item {
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+}
+.Projects-Page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: grey;
+  width: 500px;
+  border-radius: 8px;
+  border: red 2px solid;
+  margin: 20px;
+}
